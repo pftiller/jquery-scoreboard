@@ -1,0 +1,18 @@
+{
+  "name": "sigma_weekend_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Sigma Cohort",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "body-parser": "^1.18.2",
+    "express": "^4.13.4",
+    "jquery": "^3.1.0"
+  }
+}
