@@ -1,6 +1,6 @@
 var score = 
     {
-        home: 3,
+        home: 0,
         away: 0
     }
 
