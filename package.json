@@ -10,8 +10,8 @@
   "author": "Sigma Cohort",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.6",
     "body-parser": "^1.18.2",
+    "bootstrap": "^4.1.3",
     "express": "^4.13.4",
     "jquery": "^3.1.0"
   }
