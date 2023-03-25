@@ -1,5 +1,5 @@
 {
-  "name": "sigma_weekend_2",
+  "name": "jquery-scoreboard",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/app.js"
   },
-  "author": "Sigma Cohort",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pftiller/jquery-scoreboard.git"
+  },
+  "author": "Paul Tiller",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
